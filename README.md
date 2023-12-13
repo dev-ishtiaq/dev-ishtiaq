@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ishtiaq Ahmed
+- 👋 Hi, I’m Ishtiaq Ahmed
 - 👀 I’m interested to learn web languages and software development
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on different project 
